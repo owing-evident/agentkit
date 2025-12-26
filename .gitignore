@@ -139,3 +139,8 @@ docs/
 # pnpm
 typescript/.pnpm-store
 typescript/.pnp.*
+
+# Ignore local environment files
+.env
+.env.local
+
